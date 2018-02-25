@@ -1,16 +1,16 @@
-current directory: /home/amolbk/jekyll/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
-/usr/bin/ruby2.4 -r ./siteconf20180225-2746-1lf71l9.rb extconf.rb
+current directory: /home/amolbk/projects/pinnacparijaat/pinnacparijaat.github.io/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+/usr/bin/ruby2.4 -r ./siteconf20180225-8020-1nwliqw.rb extconf.rb
 creating Makefile
 
-current directory: /home/amolbk/jekyll/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+current directory: /home/amolbk/projects/pinnacparijaat/pinnacparijaat.github.io/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
 make "DESTDIR=" clean
 
-current directory: /home/amolbk/jekyll/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+current directory: /home/amolbk/projects/pinnacparijaat/pinnacparijaat.github.io/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
 make "DESTDIR="
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.so
 
-current directory: /home/amolbk/jekyll/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+current directory: /home/amolbk/projects/pinnacparijaat/pinnacparijaat.github.io/vendor/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20180225-2746-4ptmhz
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20180225-8020-1qq1v50
