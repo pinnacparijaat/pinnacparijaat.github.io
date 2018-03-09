@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : पिनाक पारिजात
+title                    : Pinnac Parijaat
 title_separator          : "|"
-name                     : "पिनाक पारिजात"
+name                     : "Pinnac Parijaat"
 description: >- # this means to ignore newlines until next setting
-  पिनाक पारिजात गृह संस्था, पुणे यांचे अनौपचारिक संकेत स्थळ.
+  Pinnac Parijaat Housing Society, Pune.
 url                      : "https://pinnacparijaat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. /blog
 repository               : "pinnacparijaat/pinnacpariaat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "पिनाक पारिजात"
+  name             : "Pinnac Parijaat"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "गृह संस्था."
-  location         : "पुणे"
+  bio              : "Housing Society."
+  location         : "Pune"
   email            : pinnacparijaat@zoho.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
