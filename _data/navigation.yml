@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "Contacts"
+    url: /contacts/
   - title: "About"
     url: /about/
