@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until next setting
   Pinnac Parijaat Housing Society, Pune.
 url                      : "https://pinnacparijaat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. /blog
-repository               : "pinnacparijaat/pinnacpariaat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "pinnacparijaat/pinnacparijaat.github.io"
 # head_scripts:
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -40,14 +40,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
-  moderation             : false
+  moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
     email                : # "md5"
   generatedFields:
@@ -272,3 +272,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+github: [metadata]
