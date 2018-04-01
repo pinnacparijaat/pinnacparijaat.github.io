@@ -8,14 +8,10 @@ Welcome to the unofficial website of Pinnac Parijaat Housing Society, Pune!
 
 Pinnac Parijaat is a project by [Pinnac Housing Pvt. Ltd.](http://pinnacgroup.com/).
 
-"Bhumi pujan"
-
-"Vishnu Yaag", "Handing over ceremony" 14-Dec-2013
+On 14-Dec-2013, Pinnac Housing invited members for "Vishnu Yaag" and "Handing over ceremony". Some pics (click to enlarge):
 
 | [![](/images/posts/2018-04-05/VishnuYaag_01.jpg)](/images/posts/2018-04-05/VishnuYaag_01.jpg) | [![](/images/posts/2018-04-05/VishnuYaag_02.jpg)](/images/posts/2018-04-05/VishnuYaag_02.jpg) |
 
 | [![](/images/posts/2018-04-05/HandingOverCeremony_01.jpg)](/images/posts/2018-04-05/HandingOverCeremony_01.jpg) | [![](/images/posts/2018-04-05/HandingOverCeremony_02.jpg)](/images/posts/2018-04-05/HandingOverCeremony_02.jpg) |
 
-Society registration on 01-Aug-2014
-
-First AGM: 13-Sep-2014
+Society registration was done on 01-Aug-2014 and first AGM was held on 13-Sep-2014.
