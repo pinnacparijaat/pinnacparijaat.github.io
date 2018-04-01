@@ -2,6 +2,7 @@
 layout: single
 title:  "Welcome to Pinnac Parijaat!"
 date:   2018-04-05
+author: Amol Khiste
 categories:
 ---
 Welcome to the unofficial website of Pinnac Parijaat Housing Society, Pune!
@@ -14,7 +15,7 @@ The beginning... <small>_(click on photo to enlarge)_</small>
 
 | [![](/images/posts/2018-04-05/PinnacSiteNotice.jpg 'Site construction notice')](/images/posts/2018-04-05/PinnacSiteNotice.jpg) | [![](/images/posts/2018-04-05/20Aug11.jpg '20 Aug 2011')](/images/posts/2018-04-05/20Aug11.jpg) |
 
-| [![](/images/posts/2018-04-05/04Jan12.jpg '04 Jan 2012')](/images/posts/2018-04-05/04Jan2012.jpg) | [![](/images/posts/2018-04-05/16Mar13.jpg '16 Mar 2013')](/images/posts/2018-04-05/16Mar2013.jpg) |
+| [![](/images/posts/2018-04-05/04Jan12.jpg '04 Jan 2012')](/images/posts/2018-04-05/04Jan12.jpg) | [![](/images/posts/2018-04-05/16Mar13.jpg '16 Mar 2013')](/images/posts/2018-04-05/16Mar13.jpg) |
 
 On 14-Dec-2013, Pinnac Housing invited members for "Vishnu Yaag" and "Handing over ceremony".
 
